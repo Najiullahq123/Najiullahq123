@@ -2,9 +2,7 @@
 Embedded & Robotics Engineer with AI expertise.<br>
 MS Robotics & AI Engineering @ NUST | BS CS @ Sukkur IBA<br>
 🏆 HYDRA Autonomous Sumo Robot, winner of RoboWars 2025<br>
-Building with ESP32, Arduino, computer vision and edge AI.<br>
-Currently researching microspine grippers for my MS.<br>
-
+Building with ESP32, Arduino, computer vision and edge AI.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/najiullah-qureshi-b20ab5224) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:najiullahq1234@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=netlify&logoColor=white)](https://najiullah-qureshi.netlify.app)
 
